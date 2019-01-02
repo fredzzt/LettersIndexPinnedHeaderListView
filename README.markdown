@@ -1,4 +1,4 @@
-PinnedHeaderListView
+LettersIndexPinnedHeaderListView
 ================
 
 This library provides a sectioned ListView with pinned headers. It looks and feels much like the default contacts app does on Android 4.0 and above
